@@ -1,1 +1,1 @@
-# knowmysoulmate
+Know my Soulmate randomly chooses a name out of the two names inputted and returns the chosen name. It works using the javascript random number generator and was developed just for fun, users are urged to read how it works before using. Enjoy
